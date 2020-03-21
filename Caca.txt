@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Salutare tuturor
+=======
+va sex mult
+>>>>>>> master
 =======
 Asta e caca
 >>>>>>> master
