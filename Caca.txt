@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Salutare tuturor
+=======
+Asta e caca
+>>>>>>> master
