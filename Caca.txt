@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 va sex mult
+=======
+Asta e caca
+>>>>>>> master
